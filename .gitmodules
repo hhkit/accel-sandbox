@@ -1,0 +1,6 @@
+[submodule "linear-accelerate"]
+	path = linear-accelerate
+	url = https://github.com/tmcdonell/linear-accelerate
+[submodule "accelerate-llvm"]
+	path = accelerate-llvm
+	url = https://github.com/AccelerateHS/accelerate-llvm
